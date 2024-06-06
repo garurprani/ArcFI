@@ -27,15 +27,11 @@
 <h2>Choosing the Right Bin File</h2>
 <p>If your display is SSD1306:</p>
 <ol>
-    <li>Download the ArcFI SSD1306 bin from the repository.</li>
+    <li>Download the ArcFI SSD1306 bin.</li>
 </ol>
 <p>If your OLED is SH1106:</p>
 <ol>
-    <li>Download the Espert [SH1106] library from the repository.</li>
-    <li>Extract the files.</li>
-    <li>Paste the two files into <code>C:\Documents\Arduino\libraries\ESPert-1.2.6\src\</code>.</li>
-    <li>If prompted to replace, click 'Yes'.</li>
-    <li>Download the ArcFI SH1106 bin from the repository.</li>
+    <li>Download the ArcFI [SH1106] bin.</li>
 </ol>
 
   <h2>Changes Made</h2>
