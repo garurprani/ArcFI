@@ -18,15 +18,12 @@
         <li><a href="https://github.com/SpacehuhnTech/HackHeld">HackHeld</a>: A hackable handheld device designed to be easy to build and customize, created by SpacehuhnTech.</li>
         <li><a href="https://github.com/JimmySoftware/ESPert">ESPert</a>: A repository of games for the SSD1306 display, created by JimmySoftware.</li>
     </ul>
-<p>If your display is SSD1306:</p>
-<li>Download the ArcFI SSD1306 bin.</li>
-<p>If your OLED is SH1106:</p>
-<li>Download the ArcFI [SH1106] bin.</li>
-
   <h2>Installation and Setup</h2>
     <p>Before using ArcFI, make sure you have set up the Hackheld device. Follow the instructions at <a href="https://github.com/SpacehuhnTech/HackHeld">https://github.com/SpacehuhnTech/HackHeld</a>. Identify your OLED display driver as either SH1106 or SSD1306.</p>
     <p>Choose the correct bin file for your display from the ArcFI repository. Incorrect flashing can lead to issues like fizzy lines on your OLED display.</p>
-    
+<li>FORSSD1306: Download the ArcFI [SSD1306] bin.</li>
+<li>FOR SH1106: Download the ArcFI [SH1106] bin.</li>
+<BR>
 <p>Flash the latest bin file using <a href="https://github.com/nodemcu/nodemcu-flasher">NodeMCU Flasher</a> or visit <a href="https://esp.huhn.me/">https://esp.huhn.me/</a>.</p>
 
 
