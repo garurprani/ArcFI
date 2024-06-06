@@ -2,11 +2,11 @@
 <body>
     <h1>ArcFI</h1>
     <div class="gallery">
-        <img src="image1.jpg" alt="Image 1">
-        <img src="image2.jpg" alt="Image 2">
-        <img src="image3.jpg" alt="Image 3">
-        <img src="image4.jpg" alt="Image 4">
-        <img src="image5.jpg" alt="Image 5">
+        <img src="https://raw.githubusercontent.com/garurprani/ArcFI/main/Images/1.png" alt="Image 1">
+        <img src="https://raw.githubusercontent.com/garurprani/ArcFI/main/Images/2.png" alt="Image 2">
+        <img src="https://raw.githubusercontent.com/garurprani/ArcFI/main/Images/3.png" alt="Image 3">
+        <img src="https://raw.githubusercontent.com/garurprani/ArcFI/main/Images/4.png" alt="Image 4">
+        <img src="https://raw.githubusercontent.com/garurprani/ArcFI/main/Images/5.png" alt="Image 5">
     </div>
     
    <h2>Overview</h2>
@@ -55,8 +55,7 @@
         <li>Worked on some small bugs.</li>
         <li>Added TP4056 Type-C charging module, reducing the need to buy costly Hackheld battery modules. The module costs only 40 rupees.</li>
     </ul>
-       <img src="image1.jpg" alt="Image 1">
-       <img src="image1.jpg" alt="Image 1">
+       <img src="https://raw.githubusercontent.com/garurprani/ArcFI/main/Images/tp4056.png" alt="Image 1">
 
   <h2>Future Contributions</h2>
     <p>If you want to contribute to the ArcFI repository, feel free to contact me on Telegram: @gaurprani.</p>
