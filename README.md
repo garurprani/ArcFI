@@ -1,13 +1,18 @@
 </head>
 <body>
     <h1>ArcFI</h1>
-    <div class="gallery">
-        <img src="https://raw.githubusercontent.com/garurprani/ArcFI/main/Images/1.png" alt="Image 1">
-        <img src="https://raw.githubusercontent.com/garurprani/ArcFI/main/Images/2.png" alt="Image 2">
-        <img src="https://raw.githubusercontent.com/garurprani/ArcFI/main/Images/3.png" alt="Image 3">
-        <img src="https://raw.githubusercontent.com/garurprani/ArcFI/main/Images/4.png" alt="Image 4">
-        <img src="https://raw.githubusercontent.com/garurprani/ArcFI/main/Images/5.png" alt="Image 5">
+<div class="gallery">
+    <img src="https://raw.githubusercontent.com/garurprani/ArcFI/main/Images/1.png" alt="Image 1" width="400" style="float: left; margin-right: 10px;">
+    <div style="display: flex; flex-wrap: wrap;">
+        <img src="https://raw.githubusercontent.com/garurprani/ArcFI/main/Images/2.png" alt="Image 2" width="200" style="margin-right: 10px;">
+        <img src="https://raw.githubusercontent.com/garurprani/ArcFI/main/Images/3.png" alt="Image 3" width="200" style="margin-right: 10px;">
+        <img src="https://raw.githubusercontent.com/garurprani/ArcFI/main/Images/4.png" alt="Image 4" width="200" style="margin-right: 10px;">
+        <img src="https://raw.githubusercontent.com/garurprani/ArcFI/main/Images/5.png" alt="Image 5" width="200">
     </div>
+</div>
+
+
+
     
    <h2>Overview</h2>
     <p>ArcFI is a DIY, open-source project that combines the functionalities of the Hackheld and ESPert repositories. This project aims to create a more compatible and stable platform where users can play games designed for the SSD1306 display on the Hackheld device. Additionally, it supports the SH1106Wire OLED display, expanding the range of compatible hardware.</p>
