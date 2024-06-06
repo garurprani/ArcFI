@@ -3,8 +3,8 @@
     <h1>ArcFI</h1>
 <div class="gallery">
     <img src="https://raw.githubusercontent.com/garurprani/ArcFI/main/Images/1.png" alt="Image 1" width="400" style="float: left; margin-right: 10px;">
+    <img src="https://raw.githubusercontent.com/garurprani/ArcFI/main/Images/2.png" alt="Image 1" width="400" style="float: left; margin-right: 10px;">
     <div style="display: flex; flex-wrap: wrap;">
-        <img src="https://raw.githubusercontent.com/garurprani/ArcFI/main/Images/2.png" alt="Image 2" width="200" style="margin-right: 10px;">
         <img src="https://raw.githubusercontent.com/garurprani/ArcFI/main/Images/3.png" alt="Image 3" width="200" style="margin-right: 10px;">
         <img src="https://raw.githubusercontent.com/garurprani/ArcFI/main/Images/4.png" alt="Image 4" width="200" style="margin-right: 10px;">
         <img src="https://raw.githubusercontent.com/garurprani/ArcFI/main/Images/5.png" alt="Image 5" width="200">
