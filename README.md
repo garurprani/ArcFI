@@ -24,6 +24,20 @@
     <p>Choose the correct bin file for your display from the ArcFI repository. Incorrect flashing can lead to issues like fizzy lines on your OLED display.</p>
     <p>Flash the latest bin file using <a href="https://github.com/nodemcu/nodemcu-flasher">NodeMCU Flasher</a> or visit <a href="https://esp.huhn.me/">https://esp.huhn.me/</a>.</p>
 
+<h2>Choosing the Right Bin File</h2>
+<p>If your display is SSD1306:</p>
+<ol>
+    <li>Download the ArcFI SSD1306 bin from the repository.</li>
+</ol>
+<p>If your OLED is SH1106:</p>
+<ol>
+    <li>Download the Espert [SH1106] library from the repository.</li>
+    <li>Extract the files.</li>
+    <li>Paste the two files into <code>C:\Documents\Arduino\libraries\ESPert-1.2.6\src\</code>.</li>
+    <li>If prompted to replace, click 'Yes'.</li>
+    <li>Download the ArcFI SH1106 bin from the repository.</li>
+</ol>
+
   <h2>Changes Made</h2>
     <p>The following changes have been made to the ArcFI repository:</p>
     <ul>
